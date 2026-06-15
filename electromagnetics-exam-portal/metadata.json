@@ -1,0 +1,6 @@
+{
+  "name": "Electromagnetics Exam Portal",
+  "description": "Interactive question bank and study companion for BEC401 Electromagnetics Theory with printable PDF generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
